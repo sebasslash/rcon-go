@@ -1,4 +1,4 @@
-package rcon_go
+package rcon
 
 import (
 	"bytes"
